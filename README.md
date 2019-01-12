@@ -1,4 +1,4 @@
-# with-rematch
+# use-rematch
 
 🕶 A Hook that implement reducer a la Rematch
 
