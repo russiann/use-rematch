@@ -1,6 +1,6 @@
 {
   "name": "use-rematch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hook that implement reducer a la Rematch",
   "source": "src",
   "main": "dist/use-rematch.cjs.js",
